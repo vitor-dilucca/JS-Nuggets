@@ -22,7 +22,7 @@ const people = [
   {
     name: 'pepe',
     age: 30,
-    position: 'designer',
+    position: 'designer', 
   },
 ]
 

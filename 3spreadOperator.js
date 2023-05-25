@@ -23,6 +23,8 @@ const person = {
   job:'dev'
 }
 
-newPerson = {...person,city:'chicago',name:'peter'}
+newPerson = {...person,
+  city:'chicago',name:'peter'
+}
 console.log(person);
 console.log(newPerson);
